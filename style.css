@@ -1,0 +1,12 @@
+h2 {
+font-family: Verdana;
+font-size: 20px;
+}
+
+button {
+font-family: sans-serif;
+height: 160px;
+width: 90px;
+font-size: 20px;
+text-align: center;
+}
